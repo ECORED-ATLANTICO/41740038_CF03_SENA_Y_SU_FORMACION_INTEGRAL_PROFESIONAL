@@ -1,1 +1,2 @@
-module.exports = 'Titulo del componente formativo'
+module.exports =
+  'Seguimiento, autocontrol y mejora de la atención institucional'
