@@ -45,10 +45,10 @@
       p.mb-4 En consecuencia, el mejoramiento debe comprenderse como un proceso articulado con el seguimiento y la evaluación:
 
       .row.mb-lg-5.mb-4.justify-content-center.align-items-center
-        .col-lg-4.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
+        .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
           figure
             img(src="@/assets/curso/tema3/img04.png", data-aos="zoom-in").mx-auto
-        .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
+        .col-lg-9.order-2.order-lg-2.mb-0.mb-lg-0
           TabsA.color-acento-botones
             .tarjeta.color-acento-botones--borde.p-4(titulo="Obtener información").align-content-center
               p.mb-0 Consultar datos, registros, documentos y evidencias relacionados con la gestión, procurando que la información sea suficiente, pertinente y verificable para el análisis.
@@ -92,7 +92,7 @@
       .col-lg-4.mb-4.mb-lg-0.col-md-8.order-1.order-lg-2
         figure
           img(src="@/assets/curso/tema3/img07.png", data-aos="zoom-in", alt="")
-      .col-lg-8.order-2.order-lg-1.col-md-12.mb-4.mb-lg-0
+      .col-lg-8.order-2.order-lg-1.col-md-12.mb-0.mb-lg-0
         SlyderF(columnas="col-lg-12 col-xl-6 col-md-12 col-sm-12 p-3")
           .tarjeta.bg-fondo-05.p-4.h-100.br-15
             img(src='@/assets/curso/tema3/img08.svg', alt='', style="max-width: 90px;").mx-auto.mb-3
@@ -116,7 +116,7 @@
             p.text-center.mb-0 Establece una actuación orientada a intervenir el aspecto susceptible de fortalecimiento.
 
 
-    .row.mb-lg-5.mb-4.justify-content-center.align-items-center
+    .row.mb-lg-5.mb-5.justify-content-center.align-items-center
       .col-lg-10.col-md-12
         .cajon.bg-color-04.p-4
           p.mb-0 Pasar de un resultado a una acción requiere análisis. La evidencia sustenta el hallazgo; el hallazgo permite reconocer una oportunidad y esta orienta la definición de una acción de mejora.
@@ -224,13 +224,15 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-lg-10
         .container
-          .row.align-items-center.justify-content-center.bg-fondo-08.p-lg-4.p-4.mb-0
-            .col-lg-9.p-3
+          .row.align-items-center.justify-content-center.bg-fondo-08.mb-0.p-0
+            .col-lg-8.p-4.mb-0
               h4.mb-2 Clave estratégica
               p.mb-0 Una acción de mejora debe poder relacionarse con una evidencia, un hallazgo y un resultado esperado.
+            .col-lg-auto.p-0.d-none.d-lg-block
+              figure
+                img(src="@/assets/curso/tema1/img28.svg", data-aos="zoom-in").mx-auto
 
-
-    .row.mb-lg-5.mb-5.justify-content-center.align-items-center
+    .row.mb-lg-5.mb-4.justify-content-center.align-items-center
       .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
         figure
           img(src="@/assets/curso/tema3/img20.png", data-aos="zoom-in").mx-auto
@@ -244,10 +246,12 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10.mb-0
         .container
-          .row.align-items-center.justify-content-center.bg-fondo-08.p-lg-4.p-4
-            .col-lg-9.p-2
+          .row.align-items-center.justify-content-center.bg-fondo-08.mb-0.p-0
+            .col-lg-8.p-4.mb-0
               p.mb-0 <b>Frase para reflexionar:</b> una acción de mejora de poder relacionarse con una evidencia como un hallazgo y un resultado esperado.
-
+            .col-lg-auto.p-0.d-none.d-lg-block
+              figure
+                img(src="@/assets/curso/tema1/img28.svg", data-aos="zoom-in").mx-auto
     separador
     
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -271,7 +275,7 @@
 
 
     .row.mb-lg-5.mb-4.justify-content-center.align-items-center
-      .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
+      .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1.d-none.d-lg-block
         figure
           img(src="@/assets/curso/tema3/img23.png", data-aos="zoom-in").mx-auto.w-md-75
 
@@ -291,7 +295,7 @@
             p.mb-0 Verifique posteriormente qué efectos produjo la actuación implementada, si se alcanzó el resultado esperado y si persisten aspectos que requieran nuevas acciones o ajustes.
 
 
-    .row.mb-lg-5.mb-3.justify-content-center.align-items-center
+    .row.mb-lg-5.mb-4.justify-content-center.align-items-center
       .col-lg-10.col-md-12.mb-0
         .cajon.bg-color-02.p-4
           p.mb-0 Una decisión fundamentada no surge de un dato aislado. Requiere interpretar la información disponible, reconocer sus alcances y utilizarla de manera coherente con la situación que se pretende atender.
@@ -379,10 +383,12 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10.mb-0
         .container
-          .row.align-items-center.justify-content-center.bg-fondo-08.p-lg-4.p-4
-            .col-lg-9.p-2
+          .row.align-items-center.justify-content-center.bg-fondo-08.mb-0.p-0
+            .col-lg-8.p-4.mb-0
               p.mb-0 <b>Frase para reflexionar:</b> mejorar no consiste solamente en cambiar lo que se hace, sino en utilizar la evidencia para comprender qué necesita fortalecerse y comprobar los resultados del cambio.
-
+            .col-lg-auto.p-0.d-none.d-lg-block
+              figure
+                img(src="@/assets/curso/tema1/img28.svg", data-aos="zoom-in").mx-auto
 
 </template>
 

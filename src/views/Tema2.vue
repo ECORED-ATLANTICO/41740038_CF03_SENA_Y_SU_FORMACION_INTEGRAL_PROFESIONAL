@@ -88,10 +88,10 @@
 
   
     .row.mb-lg-5.mb-4.justify-content-center.align-items-center
-      .col-lg-4.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
+      .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
         figure
           img(src="@/assets/curso/tema2/img07.png", data-aos="zoom-in").mx-auto
-      .col-lg-8.order-2.order-lg-2.mb-0.mb-lg-0
+      .col-lg-9.order-2.order-lg-2.mb-0.mb-lg-0
         TabsA.color-acento-botones
           .tarjeta.color-acento-botones--borde.p-4(titulo="¿Qué debía realizarse?").align-content-center
             p.mb-0 Permite reconocer el propósito, procedimiento, actividad o resultado esperado, así como los criterios que orientan la gestión y permiten establecer qué se debía cumplir.
@@ -108,10 +108,13 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-0
       .col-lg-10
         .container
-          .row.align-items-center.justify-content-center.bg-fondo-08.p-lg-4.p-4.mb-0
-            .col-lg-10.p-4
+          .row.align-items-center.justify-content-center.bg-fondo-08.mb-0.p-0
+            .col-lg-9.p-4.mb-0
               h4.mb-2 Clave estratégica
               p.mb-0 El autocontrol no debe entenderse únicamente como una revisión al finalizar una actividad. Puede ejercerse durante la gestión para reconocer oportunamente situaciones que requieren ajuste.
+            .col-lg-auto.p-0.d-none.d-lg-block
+              figure
+                img(src="@/assets/curso/tema1/img28.svg", data-aos="zoom-in").mx-auto
 
 
     separador
@@ -389,7 +392,7 @@
     p.mb-4 Las fuentes que aportan información para evaluar la atención son las siguientes:
 
     .row.mb-lg-5.mb-4.justify-content-center.align-items-center
-      .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
+      .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1.d-none.d-lg-block
         figure
           img(src="@/assets/curso/tema2/img34.png", data-aos="zoom-in").mx-auto.w-md-75
 
@@ -408,7 +411,7 @@
             
     .row.mb-lg-5.mb-4.justify-content-center.align-items-center
       .col-lg-10
-        p.mb-0 Ninguna fuente proporciona necesariamente, por sí sola, una explicación completa. La evaluación adquiere mayor solidez cuando la información pertinente se contrasta y relaciona.
+        p.mb-0.text-center Ninguna fuente proporciona necesariamente, por sí sola, una explicación completa. La evaluación adquiere mayor solidez cuando la información pertinente se contrasta y relaciona.
 
 
 
@@ -463,10 +466,13 @@
     .row.justify-content-center.align-items-center
       .col-lg-10.mb-0
         .container
-          .row.align-items-center.justify-content-center.bg-fondo-08.p-lg-4.p-4
-            .col-lg-9.p-2
+          .row.align-items-center.justify-content-center.bg-fondo-08.mb-0.p-0
+            .col-lg-8.p-4.mb-0
               p.mb-0 <b>Frase para reflexionar:</b> los datos muestran lo que ocurre; su análisis permite comprenderlo y convertirlo en una oportunidad para mejorar.
 
+            .col-lg-auto.p-0.d-none.d-lg-block
+              figure
+                img(src="@/assets/curso/tema1/img28.svg", data-aos="zoom-in").mx-auto
 </template>
 
 <script>

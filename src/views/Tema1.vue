@@ -63,7 +63,7 @@
         h2 1.1 Seguimiento institucional y su propósito
 
 
-      .row.mb-lg-4.mb-5.justify-content-center.align-items-center
+      .row.mb-lg-4.mb-4.justify-content-center.align-items-center
         .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-2
           figure
             img(src="@/assets/curso/tema1/img04.png", data-aos="zoom-in").mx-auto
@@ -84,7 +84,7 @@
       .col-lg-4.mb-4.mb-lg-0.col-md-8.order-1.order-lg-1
         figure
           img(src="@/assets/curso/tema1/img07.png", data-aos="zoom-in", alt="")
-      .col-lg-8.order-2.order-lg-2.col-md-12.mb-4.mb-lg-0
+      .col-lg-8.order-2.order-lg-2.col-md-12.mb-0.mb-lg-0
         SlyderF(columnas="col-lg-12 col-xl-6 col-md-12 col-sm-12 p-3")
           .tarjeta.bg-fondo-05.p-4.h-100.br-15
             img(src='@/assets/curso/tema1/img09.svg', alt='', style="max-width: 90px;").mx-auto.mb-3
@@ -111,10 +111,13 @@
     .row.justify-content-center.align-items-center
       .col-lg-10.mb-4.mb-lg-0
         .container
-          .row.align-items-center.justify-content-center.bg-fondo-08.p-lg-4.p-4.mb-0
-            .col-lg-9.p-3
+          .row.align-items-center.justify-content-center.bg-fondo-08.mb-0.p-0
+            .col-lg-9.p-4.mb-0
               h4.mb-2 Clave estratégica
               p.mb-0 El seguimiento adquiere valor cuando la información obtenida se utiliza para comprender lo ocurrido y sustentar decisiones.
+            .col-lg-auto.p-0.d-none.d-lg-block
+              figure
+                img(src="@/assets/curso/tema1/img28.svg", data-aos="zoom-in").mx-auto
 
 
     separador
@@ -131,7 +134,7 @@
         p.mb-0 Para realizar un seguimiento objetivo no basta con recordar lo sucedido o basarse en apreciaciones personales. Es necesario consultar información y seleccionar evidencias que permitan sustentar las actuaciones realizadas durante el proceso de atención. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0.col-md-8.order-1.order-lg-1
+      .col-lg-4.mb-4.mb-lg-0.col-md-12.order-1.order-lg-1
         p.mb-2 Una evidencia es un registro, documento, dato o soporte que permite comprobar una actuación o resultado. Su utilidad depende de que guarde relación con aquello que se pretende verificar. Por esta razón, acumular información no garantiza un seguimiento adecuado: es necesario seleccionar aquella que resulte pertinente.
         p.mb-0 Éstas son las características de una evidencia útil para el seguimiento: 
       .col-lg-8.order-2.order-lg-2.col-md-12.mb-4.mb-lg-0
@@ -170,7 +173,7 @@
           p.mb-0 El ejemplo permite comprender una diferencia fundamental:
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.mb-4.mb-lg-0
         .container
           .row.align-items-center.bg-color-04.p-4.mb-0.br-15
@@ -238,7 +241,7 @@
 
 
     .row.mb-lg-5.mb-4.justify-content-center.align-items-center
-      .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
+      .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1.d-none.d-lg-block
         figure
           img(src="@/assets/curso/tema1/img20.png", data-aos="zoom-in").mx-auto.w-md-75
 
@@ -269,7 +272,7 @@
 
 
     .row.mb-lg-4.mb-5.justify-content-center.align-items-center
-      .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-2
+      .col-lg-3.col-md-12.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src="@/assets/curso/tema1/img21.png", data-aos="zoom-in").mx-auto
       .col-lg-9.order-2.order-lg-1.mb-0.mb-lg-0
@@ -291,7 +294,7 @@
 
     p.mb-lg-5.mb-4 En este punto es importante evitar una conclusión automática: un dato no constituye por sí solo una decisión. Antes de actuar es necesario interpretarlo, relacionarlo con otras evidencias y comprender el contexto en el que se produjo. 
 
-    .row.mb-lg-5.mb-5.justify-content-center.align-items-center
+    .row.mb-lg-5.mb-4.justify-content-center.align-items-center
       .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
         figure
           img(src="@/assets/curso/tema1/img25.png", data-aos="zoom-in").mx-auto
@@ -310,10 +313,12 @@
     .row.justify-content-center.align-items-center
       .col-lg-10.mb-0
         .container
-          .row.align-items-center.justify-content-center.bg-fondo-08.p-lg-4.p-4
-            .col-lg-9.p-2
+          .row.align-items-center.justify-content-center.bg-fondo-08
+            .col-lg-9.p-lg-4.p-4
               p.mb-0 <b>Frase para reflexionar:</b>  Hacer seguimiento no consiste solamente en comprobar lo realizado; implica utilizar las evidencias para comprender los resultados y aprender de ellos.
-
+            .col-lg-auto.p-0.d-none.d-lg-block
+              figure
+                img(src="@/assets/curso/tema1/img28.svg", data-aos="zoom-in").mx-auto
 </template>
 
 <script>
