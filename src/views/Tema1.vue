@@ -180,7 +180,7 @@
             .col-lg-auto.d-none.d-lg-block
               img(src="@/assets/curso/tema1/img05.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0.text-bold Información disponible ≠ evidencia pertinente. 
+              p.mb-0.text-bold Información disponible ≠ evidencia pertinente
       .col-lg-7
         p.mb-0 Una organización puede disponer de numerosos datos y documentos, pero para efectuar el seguimiento debe seleccionar aquellos que realmente permitan comprobar las actuaciones y resultados analizados.
 
@@ -284,7 +284,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold.mb-2 Figura 1.
           span Del seguimiento al uso de los resultados
-        img.mb-0(data-aos="zoom-in", src="@/assets/curso/tema1/img22.svg", alt="La figura 1 enuncia la ruta o secuencia que permite, a partir de las evidencias, hacer un seguimiento y a partir del mismo obtener resultados; los ccuales a travé de su socialización, apoyen el análisis y la toma de decisiones.")
+        img.mb-0(data-aos="zoom-in", src="@/assets/curso/tema1/img22.svg", alt="La figura 1 enuncia la ruta o secuencia que permite, a partir de las evidencias, hacer un seguimiento y a partir del mismo obtener resultados; los cuales a través de su socialización, apoyen el análisis y la toma de decisiones.")
 
     .bg-full-width.bg-fondo-01.px-5.py-4
       img(src="@/assets/curso/tema1/img23.png", alt="")
@@ -315,7 +315,7 @@
         .container
           .row.align-items-center.justify-content-center.bg-fondo-08
             .col-lg-9.p-lg-4.p-4
-              p.mb-0 <b>Frase para reflexionar:</b>  Hacer seguimiento no consiste solamente en comprobar lo realizado; implica utilizar las evidencias para comprender los resultados y aprender de ellos.
+              p.mb-0 <b>Frase para reflexionar:</b> hacer seguimiento no consiste solamente en comprobar lo realizado; implica utilizar las evidencias para comprender los resultados y aprender de ellos.
             .col-lg-auto.p-0.d-none.d-lg-block
               figure
                 img(src="@/assets/curso/tema1/img28.svg", data-aos="zoom-in").mx-auto

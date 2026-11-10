@@ -146,7 +146,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/41740038_CF03_DU.pdf',
+        download: 'downloads/41740038_CF03_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -281,12 +281,12 @@ export default {
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2024). Resolución 3415 de 2024, por medio de la cual se modifica la Resolución 2472 de 2021, “Por la cual articula el Sistema Integrado de Gestión y Autocontrol (SIGA) al Modelo Integrado de Planeación y Gestión (MIPG), en el Servicio Nacional de Aprendizaje SENA”.',
-      link: 'https://normograma.sena.edu.co/compilacion/docs/resolucion_sena_3415_2024.htm',
+      link: '',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2025). Acuerdo 0006 de 2025, por medio del cual se adopta el Modelo Integrado de Planeación y Gestión (MIPG) en el Servicio Nacional de Aprendizaje (SENA), se derogan los Acuerdos números 004 de 2021 y 006 de 2024, y se dictan otras disposiciones.',
-      link: 'https://normograma.sena.edu.co/compilacion/docs/acuerdo_sena_0006_2025.htm',
+      link: '',
     },
     {
       referencia:
@@ -311,7 +311,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional G06. Responsable Ecosistema de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -330,7 +330,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Rosmery Conde',
+          nombre: 'María Fernanda Morales Angulo',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -340,8 +340,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Andrés Felipe Herrera Roldan',
-          cargo: 'Diseñador de contenidos digitales',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -370,18 +370,18 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Laura Daniela Burgos Rueda',
+          nombre: 'Karine Isabel Ospino Fritz',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Laura Daniela Burgos Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          nombre: 'Luis Gabriel Urueta',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

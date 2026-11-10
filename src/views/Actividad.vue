@@ -62,7 +62,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted contrasta registros del caso para comprobar qué se hizo y qué resultado se obtuvo; el estado cerrado no demuestra por sí solo la gestión.',
+            'Usted contrasta registros del caso para comprobar qué se hizo y qué resultado se obtuvo; el estado cerrado no demuestra por sí solo la gestión.',
           mensaje_incorrecto:
             'Revise el apartado 1.1. Para verificar este caso, usted necesita relacionar el requerimiento, las actuaciones y la respuesta; una etiqueta de cierre o un total no basta.',
         },
@@ -99,7 +99,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted selecciona una evidencia pertinente y verificable que vincula la comunicación con el requerimiento y el momento analizado.',
+            'Usted selecciona una evidencia pertinente y verificable que vincula la comunicación con el requerimiento y el momento analizado.',
           mensaje_incorrecto:
             'Repase el apartado 1.2. Usted debe comprobar la comunicación de esa respuesta: el borrador acredita preparación, el total no identifica el caso y el recuerdo no sustituye el soporte.',
         },
@@ -136,7 +136,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted reconstruye el recorrido del caso al relacionar las evidencias con la secuencia de actuaciones y el resultado obtenido.',
+            'Usted reconstruye el recorrido del caso al relacionar las evidencias con la secuencia de actuaciones y el resultado obtenido.',
           mensaje_incorrecto:
             'Revise el apartado 1.3. Usted necesita establecer qué ocurrió y en qué secuencia; ordenar por extensión, omitir antecedentes o separar dependencias no reconstruye el recorrido.',
         },
@@ -173,7 +173,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted selecciona evidencias relacionadas con el objeto y el periodo del seguimiento, cuya procedencia puede comprobar y cuyo contenido sustenta el análisis.',
+            'Usted selecciona evidencias relacionadas con el objeto y el periodo del seguimiento, cuya procedencia puede comprobar y cuyo contenido sustenta el análisis.',
           mensaje_incorrecto:
             'Repase el apartado 1.2. Usted debe priorizar pertinencia, verificabilidad y correspondencia temporal; la cantidad de documentos o su extensión no garantiza evidencia útil.',
         },
@@ -210,7 +210,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted usa el informe para situar la gestión y las evidencias particulares para reconstruir el caso; al relacionarlos obtiene una lectura más completa.',
+            'Usted usa el informe para situar la gestión y las evidencias particulares para reconstruir el caso; al relacionarlos obtiene una lectura más completa.',
           mensaje_incorrecto:
             'Revise el apartado 1.4. Usted necesita contrastar fuentes: el informe integra resultados del periodo, pero sus datos generales no explican por sí solos una demora particular.',
         },
@@ -247,7 +247,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted comunica resultados comprensibles y sustentados para que el equipo reconozca situaciones relevantes y utilice la información en el análisis y las decisiones.',
+            'Usted comunica resultados comprensibles y sustentados para que el equipo reconozca situaciones relevantes y utilice la información en el análisis y las decisiones.',
           mensaje_incorrecto:
             'Repase el apartado 1.5. Usted debe facilitar la comprensión de los resultados y sus evidencias; distribuir datos sin contexto o atribuir responsabilidades sin análisis no cumple ese propósito.',
         },
@@ -284,7 +284,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted busca sustento verificable y reconoce el alcance de la información disponible, sin presentar una actuación no comprobada como un hecho.',
+            'Usted busca sustento verificable y reconoce el alcance de la información disponible, sin presentar una actuación no comprobada como un hecho.',
           mensaje_incorrecto:
             'Revise los apartados 1.2 y 1.3. Usted debe relacionar cada actuación con su evidencia; la respuesta final o un caso parecido no permiten llenar un vacío de trazabilidad.',
         },
@@ -321,7 +321,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted identifica la diferencia frente al referente y reconoce que el indicador señala un resultado, pero no explica por sí solo sus causas.',
+            'Usted identifica la diferencia frente al referente y reconoce que el indicador señala un resultado, pero no explica por sí solo sus causas.',
           mensaje_incorrecto:
             'Repase el apartado 2.2. Usted puede establecer una brecha de cinco puntos porcentuales; para explicar causas o valorar otros aspectos necesita evidencias adicionales.',
         },
@@ -358,7 +358,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted integra el indicador con evidencias y contexto para interpretar el aumento, sin atribuir causas ni justificar demoras automáticamente.',
+            'Usted integra el indicador con evidencias y contexto para interpretar el aumento, sin atribuir causas ni justificar demoras automáticamente.',
           mensaje_incorrecto:
             'Revise el apartado 2.3. Usted debe contrastar los tiempos con las actuaciones registradas; solicitar información adicional aporta contexto, pero no explica ni justifica todos los casos.',
         },
@@ -395,7 +395,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted revisa su actuación durante la gestión y atiende oportunamente la inconsistencia dentro de su ámbito de responsabilidad.',
+            'Usted revisa su actuación durante la gestión y atiende oportunamente la inconsistencia dentro de su ámbito de responsabilidad.',
           mensaje_incorrecto:
             'Repase el apartado 2.1. Usted ejerce autocontrol cuando comprueba su gestión y promueve ajustes sustentados; esperar una revisión o alterar el soporte no resuelve la inconsistencia.',
         },
@@ -432,7 +432,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted distingue la oportunidad de la integralidad y la efectividad; una respuesta emitida a tiempo puede no atender toda la necesidad que la originó.',
+            'Usted distingue la oportunidad de la integralidad y la efectividad; una respuesta emitida a tiempo puede no atender toda la necesidad que la originó.',
           mensaje_incorrecto:
             'Revise el apartado 2.4. Usted debe contrastar la respuesta con lo solicitado: la fecha de envío no demuestra que se hayan atendido los aspectos necesarios del requerimiento.',
         },
@@ -469,7 +469,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted relaciona el reporte con las respuestas y la retroalimentación para examinar la claridad, sin confundir oportunidad con calidad global.',
+            'Usted relaciona el reporte con las respuestas y la retroalimentación para examinar la claridad, sin confundir oportunidad con calidad global.',
           mensaje_incorrecto:
             'Repase los apartados 2.4 y 2.5. Usted necesita analizar qué motivó las aclaraciones; ni el cumplimiento del tiempo ni su sola existencia permiten concluir sobre toda la calidad.',
         },
@@ -506,7 +506,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted verifica el significado y el origen del indicador y lo sitúa en su periodo y referencia antes de valorar el resultado.',
+            'Usted verifica el significado y el origen del indicador y lo sitúa en su periodo y referencia antes de valorar el resultado.',
           mensaje_incorrecto:
             'Revise el apartado 2.2. Usted no puede calificar un porcentaje aislado: primero necesita conocer qué mide, de dónde proviene y con qué referencia pertinente puede compararlo.',
         },
@@ -543,7 +543,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted trata la retroalimentación como una fuente para contrastar y analizar; así puede reconocer situaciones que el resultado general no muestra.',
+            'Usted trata la retroalimentación como una fuente para contrastar y analizar; así puede reconocer situaciones que el resultado general no muestra.',
           mensaje_incorrecto:
             'Repase el apartado 2.5. Usted debe relacionar las observaciones con otras fuentes; descartarlas, generalizar una sola o contarlas sin contexto limita la evaluación.',
         },
@@ -580,7 +580,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted transforma el hallazgo sobre dificultades de comprensión en una oportunidad concreta: fortalecer la claridad de la información comunicada.',
+            'Usted transforma el hallazgo sobre dificultades de comprensión en una oportunidad concreta: fortalecer la claridad de la información comunicada.',
           mensaje_incorrecto:
             'Revise el apartado 3.2. Usted debe vincular la oportunidad con la situación evidenciada; aumentar respuestas, anexos o rapidez no atiende directamente la dificultad de comprensión.',
         },
@@ -617,7 +617,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted plantea una acción pertinente y definida, vinculada al hallazgo, y prevé evidencias posteriores para comprobar sus resultados.',
+            'Usted plantea una acción pertinente y definida, vinculada al hallazgo, y prevé evidencias posteriores para comprobar sus resultados.',
           mensaje_incorrecto:
             'Repase el apartado 3.3. Usted necesita intervenir las instrucciones identificadas y comprobar qué ocurre después; un recordatorio general o mayor difusión no resuelve su falta de claridad.',
         },
@@ -654,7 +654,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted reconoce que una acción fundamentada también debe ser viable y coherente con las posibilidades y lineamientos institucionales.',
+            'Usted reconoce que una acción fundamentada también debe ser viable y coherente con las posibilidades y lineamientos institucionales.',
           mensaje_incorrecto:
             'Revise el apartado 3.3. Usted debe comprobar la viabilidad de la acción: su pertinencia no reemplaza la revisión de recursos, competencias y condiciones de ejecución.',
         },
@@ -691,7 +691,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted vuelve al seguimiento para verificar los resultados de la acción; ejecutar un cambio no demuestra por sí solo que haya mejorado la atención.',
+            'Usted vuelve al seguimiento para verificar los resultados de la acción; ejecutar un cambio no demuestra por sí solo que haya mejorado la atención.',
           mensaje_incorrecto:
             'Repase el apartado 3.1. Usted necesita información posterior que permita valorar el efecto del ajuste; registrar su ejecución es solo una parte del ciclo de mejora.',
         },
@@ -728,7 +728,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted utiliza información verificada y contextualizada para sustentar una actuación coherente con la necesidad y los lineamientos institucionales.',
+            'Usted utiliza información verificada y contextualizada para sustentar una actuación coherente con la necesidad y los lineamientos institucionales.',
           mensaje_incorrecto:
             'Revise el apartado 3.4. Usted debe interpretar y relacionar evidencias antes de decidir; la popularidad, la rapidez o una cifra aislada no sustituyen ese análisis.',
         },
@@ -765,7 +765,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Usted busca establecer qué produjo la revisión en la atención; distinguir actividades y resultados permite valorar si el cambio fortaleció la comprensión.',
+            'Usted busca establecer qué produjo la revisión en la atención; distinguir actividades y resultados permite valorar si el cambio fortaleció la comprensión.',
           mensaje_incorrecto:
             'Repase el apartado 3.5. Usted necesita evidencias del resultado obtenido, como las aclaraciones asociadas con las respuestas revisadas; contar reuniones o participantes solo describe actividades.',
         },

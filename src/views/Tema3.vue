@@ -248,7 +248,7 @@
         .container
           .row.align-items-center.justify-content-center.bg-fondo-08.mb-0.p-0
             .col-lg-8.p-4.mb-0
-              p.mb-0 <b>Frase para reflexionar:</b> una acción de mejora de poder relacionarse con una evidencia como un hallazgo y un resultado esperado.
+              p.mb-0 <b>Frase para reflexionar:</b> una acción de mejora debe poder relacionarse con una evidencia, un hallazgo y un resultado esperado.
             .col-lg-auto.p-0.d-none.d-lg-block
               figure
                 img(src="@/assets/curso/tema1/img28.svg", data-aos="zoom-in").mx-auto
@@ -308,13 +308,12 @@
               figure
                 img(src="@/assets/curso/tema5/img19.png", data-aos="fade-right").w-md-75.mx-auto
             .col-lg-8.order-1.order-md-1.order-lg-1.p-4.p-lg-4
-              p(data-aos="fade-left").mb-4 Para ampliar: consulte el pódcast 
+              p(data-aos="fade-left").mb-4 Para ampliar: consulte el pódcast “Del hallazgo a la mejora: decisiones sustentadas en evidencias” y reconozca cómo los resultados del seguimiento pueden convertirse en oportunidades y acciones concretas de mejoramiento.
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="Del hallazgo a la mejora: decisiones sustentadas en evidencias"
                 tiempo
                 :audio="require_src('@/assets/curso/podcast/podcast2.mp3')"
               )
-              p.mb-0 Y reconozca cómo los resultados del seguimiento pueden convertirse en oportunidades y acciones concretas de mejoramiento.
 
 
     separador

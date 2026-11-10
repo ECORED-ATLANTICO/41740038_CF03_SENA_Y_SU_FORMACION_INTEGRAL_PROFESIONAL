@@ -30,7 +30,7 @@
               .col-lg
                 p.mb-0 Evaluar y ejercer autocontrol son, por tanto, acciones complementarias. La primera permite valorar resultados a partir de información y evidencias; el segundo incorpora una responsabilidad permanente frente a la manera como se desarrolla el trabajo y a los resultados que se generan.
 
-      p.mb-4.text-center La tabla que se presenta a continuación, presenta una comparación entre la evaluación y el autocontrol en la gestión institucional.
+      p.mb-4.text-center La tabla a continuación presenta una comparación entre la evaluación y el autocontrol en la gestión institucional.
 
       .row.mb-5.justify-content-center.align-items-center
         .col-lg-12
@@ -270,7 +270,7 @@
         p.mb-0 Sin embargo, al relacionar el indicador con las evidencias del periodo se identifica que una proporción de los requerimientos necesitó información adicional antes de poder gestionarse. Este dato aporta un elemento relevante para interpretar el resultado.
 
     p.mb-3 El análisis adecuado no consiste en justificar automáticamente el comportamiento observado, sino en relacionar la información disponible antes de formular conclusiones.
-    p.mb-4 Podemos representar esta lógica de la siguiente manera
+    p.mb-4 Podemos representar esta lógica de la siguiente manera:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-4.mb-lg-0
@@ -297,13 +297,13 @@
               figure
                 img(src="@/assets/curso/tema5/img19.png", data-aos="fade-right").w-md-75.mx-auto
             .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-3
-              p(data-aos="fade-left").mb-4 Para ampliar: consulte el pódcast 
+              p(data-aos="fade-left").mb-4 Para ampliar: consulte el pódcast “De la evidencia al resultado: cómo interpretar el seguimiento institucional”, en el que encontrará una situación aplicada para comprender cómo relacionar evidencias e indicadores antes de evaluar una respuesta institucional. 
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="De la evidencia al resultado: cómo interpretar el seguimiento institucional"
                 tiempo
                 :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
               )
-              p.mb-0 En el que encontrará una situación aplicada para comprender cómo relacionar evidencias e indicadores antes de evaluar una respuesta institucional.
+              
 
 
     separador
