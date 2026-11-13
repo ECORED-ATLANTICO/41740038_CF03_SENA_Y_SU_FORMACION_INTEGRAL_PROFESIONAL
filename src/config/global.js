@@ -281,12 +281,12 @@ export default {
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2024). Resolución 3415 de 2024, por medio de la cual se modifica la Resolución 2472 de 2021, “Por la cual articula el Sistema Integrado de Gestión y Autocontrol (SIGA) al Modelo Integrado de Planeación y Gestión (MIPG), en el Servicio Nacional de Aprendizaje SENA”.',
-      link: '',
+      link: 'https://normograma.sena.edu.co/compilacion/docs/resolucion_sena_3415_2024.htm',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2025). Acuerdo 0006 de 2025, por medio del cual se adopta el Modelo Integrado de Planeación y Gestión (MIPG) en el Servicio Nacional de Aprendizaje (SENA), se derogan los Acuerdos números 004 de 2021 y 006 de 2024, y se dictan otras disposiciones.',
-      link: '',
+      link: 'https://normograma.sena.edu.co/compilacion/docs/acuerdo_sena_0006_2025.htm ',
     },
     {
       referencia:
@@ -327,8 +327,7 @@ export default {
         {
           nombre: 'Emilse Sugey Camacho Mosquera',
           cargo: 'Equipo de diseño curricular',
-          centro:
-            'Centro De Formación Para El Desarrollo Rural Y Minero - Regional Norte De Santander',
+          centro: 'Centro Náutico Pesquero de Buenaventura - Regional Valle',
         },
         {
           nombre: 'German Ramírez',

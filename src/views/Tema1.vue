@@ -77,7 +77,7 @@
               .col-lg
                 p.mb-0 En el contexto de las respuestas institucionales, el seguimiento puede contribuir a establecer si el requerimiento fue gestionado, qué actuaciones se desarrollaron, qué información se utilizó y cuál fue el resultado obtenido. Esta revisión permite contar con elementos objetivos para valorar la gestión y sustentar decisiones posteriores.
     
-    p.mb-5 La infografía a continuación, responde la pregunta de para qué realizar el seguimiento a la atención institucional: 
+    p.mb-5 La información a continuación responde la pregunta de para qué realizar el seguimiento a la atención institucional: 
 
     
     .row.justify-content-center.align-items-center.mb-5

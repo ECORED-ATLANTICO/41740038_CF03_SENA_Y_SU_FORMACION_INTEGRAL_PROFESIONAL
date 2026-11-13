@@ -213,25 +213,7 @@
                 p.mb-0 Permite obtener información o evidencias posteriores para establecer qué ocurrió después de su implementación.
 
 
-    .row.align-items-center.mb-4.mb-lg-5
-      .col-lg-auto.d-none.d-lg-block.order-1
-        img(src="@/assets/curso/tema3/img19.svg", style="max-width: 90px").mx-auto
-      .col-lg.order-2
-        p.mb-2 Retomando el ejemplo anterior, si el hallazgo se relaciona con dificultades de comprensión de determinadas respuestas, una acción coherente podría orientarse a revisar y ajustar la forma en que se comunica esa información, de acuerdo con los lineamientos institucionales aplicables.
-        p.mb-0 Una acción que no tenga relación con la situación encontrada, aunque resulte positiva en términos generales, difícilmente podrá considerarse una respuesta adecuada al hallazgo.
-
-
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
-      .col-lg-10
-        .container
-          .row.align-items-center.justify-content-center.bg-fondo-08.mb-0.p-0
-            .col-lg-8.p-4.mb-0
-              h4.mb-2 Clave estratégica
-              p.mb-0 Una acción de mejora debe poder relacionarse con una evidencia, un hallazgo y un resultado esperado.
-            .col-lg-auto.p-0.d-none.d-lg-block
-              figure
-                img(src="@/assets/curso/tema1/img28.svg", data-aos="zoom-in").mx-auto
-
+    
     .row.mb-lg-5.mb-4.justify-content-center.align-items-center
       .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
         figure
