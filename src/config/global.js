@@ -325,9 +325,26 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nicolas Cruz',
-          cargo: 'Experto temático',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          nombre: 'Emilse Sugey Camacho Mosquera',
+          cargo: 'Equipo de diseño curricular',
+          centro:
+            'Centro De Formación Para El Desarrollo Rural Y Minero - Regional Norte De Santander',
+        },
+        {
+          nombre: 'German Ramírez',
+          cargo: 'Instructor',
+          centro:
+            'Centro De Formación Para El Desarrollo Rural Y Minero - Regional Norte De Santander',
+        },
+        {
+          nombre: 'María Roció Malagon',
+          cargo: 'Equipo de diseño curricular',
+          centro: 'Centro De La Construcción - Regional Valle',
+        },
+        {
+          nombre: 'Yanin Lorena Rojas',
+          cargo: 'Instructora de pedagogía',
+          centro: 'Centro De Diseño Tecnológico Industrial - Regional Valle',
         },
         {
           nombre: 'María Fernanda Morales Angulo',
