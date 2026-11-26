@@ -77,7 +77,7 @@
               .col-lg
                 p.mb-0 En el contexto de las respuestas institucionales, el seguimiento puede contribuir a establecer si el requerimiento fue gestionado, qué actuaciones se desarrollaron, qué información se utilizó y cuál fue el resultado obtenido. Esta revisión permite contar con elementos objetivos para valorar la gestión y sustentar decisiones posteriores.
     
-    p.mb-5 La información a continuación responde la pregunta de para qué realizar el seguimiento a la atención institucional: 
+    p.mb-5 La información a continuación responde a la pregunta de para qué realizar el seguimiento a la atención institucional: 
 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -292,7 +292,7 @@
       .col-lg-10(data-aos="fade-right")
         p.banner-text Las evidencias proporcionan información sobre las actuaciones realizadas. El seguimiento permite organizar y analizar esa información para obtener resultados que, al ser comunicados y comprendidos, pueden apoyar el análisis y la toma de decisiones.
 
-    p.mb-lg-5.mb-4 En este punto es importante evitar una conclusión automática: un dato no constituye por sí solo una decisión. Antes de actuar es necesario interpretarlo, relacionarlo con otras evidencias y comprender el contexto en el que se produjo. 
+    p.mb-lg-5.mb-4 En este punto es importante evitar una conclusión automática: un dato no constituye por sí solo una decisión. Antes de actuar, es necesario interpretarlo, relacionarlo con otras evidencias y comprender el contexto en el que se produjo. 
 
     .row.mb-lg-5.mb-4.justify-content-center.align-items-center
       .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1

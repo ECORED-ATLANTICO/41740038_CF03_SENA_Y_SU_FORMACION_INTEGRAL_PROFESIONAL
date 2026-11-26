@@ -765,11 +765,15 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Usted busca establecer qué produjo la revisión en la atención; distinguir actividades y resultados permite valorar si el cambio fortaleció la comprensión.',
+            'Usted utiliza información verificada y contextualizada para sustentar una actuación coherente con la necesidad y los lineamientos institucionales.',
           mensaje_incorrecto:
-            'Repase el apartado 3.5. Usted necesita evidencias del resultado obtenido, como las aclaraciones asociadas con las respuestas revisadas; contar reuniones o participantes solo describe actividades.',
+            'Revise el apartado 3.4. Usted debe interpretar y relacionar evidencias antes de decidir; la popularidad, la rapidez o una cifra aislada no sustituyen ese análisis.',
         },
       ],
+      mensaje_final_aprobado:
+        '¡Felicitaciones! Usted alcanzó al menos el 70 % de respuestas correctas (14 a 20 aciertos). Demuestra comprensión del seguimiento, la evaluación, el autocontrol y la mejora de la atención institucional. Revise las retroalimentaciones y repita la actividad si desea afianzar sus aprendizajes.',
+      mensaje_final_reprobado:
+        'Usted obtuvo entre 0 y 13 aciertos. Revise las retroalimentaciones y retome los apartados sobre evidencias, evaluación o mejora que necesita fortalecer. Recuerde que esta actividad es opcional, no calificable y puede repetirla cuantas veces desee.',
     },
   }),
 }

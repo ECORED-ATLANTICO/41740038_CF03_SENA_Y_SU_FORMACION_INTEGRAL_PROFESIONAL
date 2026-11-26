@@ -85,7 +85,7 @@
           figure
             img(src="@/assets/curso/tema3/img06.png", data-aos="zoom-in").mx-auto
         .col-lg-7.order-2.order-lg-2.mb-0.mb-lg-0.p-4
-          p.mb-0(data-aos="fade-right") A partir de los hallazgos pueden reconocerse oportunidades de mejora, entendidas como aspectos de la gestión susceptibles de fortalecimiento. Esta distinción es importante porque el hallazgo describe una situación sustentada en información, mientras que la oportunidad de mejora orienta la atención hacia aquello que podría fortalecerse.
+          p.mb-0(data-aos="fade-right") A partir de los hallazgos, pueden reconocerse oportunidades de mejora, entendidas como aspectos de la gestión susceptibles de fortalecimiento. Esta distinción es importante porque el hallazgo describe una situación sustentada en información, mientras que la oportunidad de mejora orienta la atención hacia aquello que podría fortalecerse.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -127,7 +127,7 @@
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.svg")
           h3.titulo-con-imagen__texto Ejemplo aplicado
 
-    p.mb-4 Durante el seguimiento se identifica que varias personas solicitaron aclaraciones después de recibir una respuesta institucional.
+    p.mb-4 Durante el seguimiento, se identifica que varias personas solicitaron aclaraciones después de recibir una respuesta institucional.
 
     .row.align-items-center.mb-4.mb-lg-4
       .col-lg-auto.d-none.d-lg-block.order-1

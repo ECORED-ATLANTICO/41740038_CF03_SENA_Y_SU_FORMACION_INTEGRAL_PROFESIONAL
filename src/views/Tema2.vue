@@ -138,7 +138,7 @@
             .col-lg-auto.d-none.d-lg-block
               img(src="@/assets/curso/tema2/img09.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-2 Para interpretar un indicador es necesario comprender, como mínimo, qué mide, qué información utiliza, cuál es su resultado y frente a qué referencia debe analizarse.
+              p.mb-2 Para interpretar un indicador, es necesario comprender, como mínimo, qué mide, qué información utiliza, cuál es su resultado y frente a qué referencia debe analizarse.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -267,7 +267,7 @@
       .col-lg-auto.d-none.d-lg-block.order-1
         img(src="@/assets/curso/tema1/img19.svg", style="max-width: 90px").mx-auto
       .col-lg.order-2
-        p.mb-0 Sin embargo, al relacionar el indicador con las evidencias del periodo se identifica que una proporción de los requerimientos necesitó información adicional antes de poder gestionarse. Este dato aporta un elemento relevante para interpretar el resultado.
+        p.mb-0 Sin embargo, al relacionar el indicador con las evidencias del periodo, se identifica que una proporción de los requerimientos necesitó información adicional antes de poder gestionarse. Este dato aporta un elemento relevante para interpretar el resultado.
 
     p.mb-3 El análisis adecuado no consiste en justificar automáticamente el comportamiento observado, sino en relacionar la información disponible antes de formular conclusiones.
     p.mb-4 Podemos representar esta lógica de la siguiente manera:
